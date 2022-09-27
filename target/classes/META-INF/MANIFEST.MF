@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Leela
+Build-Jdk: 17.0.4.1
+Implementation-Title: spring-boot-mongodb-rest-api
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: in.revathi
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-boot-mongodb-rest-api
+Main-Class: in.revathi.restapi.SpringBootMongodbRestApiApplication
+Created-By: Maven Integration for Eclipse
+
